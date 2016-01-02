@@ -34,20 +34,3 @@
   min-height: 150px;
   max-height: 150px;
 }
-
-.login-form-bg{
-  background-color: white;
-  border: 15px solid;
-  border-radius: 15px;
-  border-color: white;
-  margin-top: 50px;
-}
-/*
-.authicon{
-  background-color: #eeeeee;
-  border: 1px solid;
-  margin: 0;
-  padding: 0;
-  border-color: white;
-  border-radius: 15px;  
-}*/
